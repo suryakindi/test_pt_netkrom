@@ -13,6 +13,10 @@ INSTALATION :
 8. jika sudah jalankan seeder "php artisan db:seed"
 9. jika semua berhasil lalu jalankan servernya "php artisan serve"
 
+URL Login : /login
+U : admin
+p : admin
+
 
 ## About Laravel
 
