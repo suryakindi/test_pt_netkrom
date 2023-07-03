@@ -1,6 +1,7 @@
 
 
-## About Laravel
+## INSTALATION
+
 INSTALATION :
 1. git clone repository ini >> git clone https://github.com/suryakindi/test_pt_netkrom.git
 2. setelah clone berhasil jalankan perintah "composer install" terlebih dahulu
